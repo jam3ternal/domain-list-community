@@ -56,6 +56,7 @@ include:v8
 include:vim
 include:xda
 
+adventofcode.com
 alpinelinux.org
 apache.org
 atom.io
@@ -139,6 +140,8 @@ termius.com
 unpkg.com
 videojs.com
 videolan.org
+wapm.io
+wasmer.io
 wireshark.org
 x.org
 xposed.info

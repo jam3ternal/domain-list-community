@@ -295,6 +295,14 @@ include:category-enterprise-query-platform-cn
 upe.net # 优启通官网
 suzuki-china.com # 铃木中国官网
 
+# 应城门户网站
+chugou360.com
+ycrx360.com
+
+# 即刻雾联（北京）
+# Refer: https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
+jikeiot.cloud
+
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 
